@@ -1,3 +1,7 @@
+# Angular Componentler Arası İletişim makalesinin kaynak kodlarıdır.
+
+https://medium.com/@thrkardak/angular-componentler-aras%C4%B1-i%CC%87leti%C5%9Fim-fe077455840c
+
 # NgInputOutput
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
